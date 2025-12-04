@@ -7,16 +7,30 @@ keep_alive()  # Start Flask web server to keep alive
 
 # 🔐 Login with session ID
 cl = Client()
-cl.login_by_sessionid("YOUR_SESSION_ID_HERE")  # 🔑 Session ID daal do
+cl.login_by_sessionid("70016257168%3Ay7O80nMoWm1AVz%3A24%3AAYjQoQ3Z7PHDd4fizbR34umpOu64pDsTbxYzrhuD1g")  # 🔑 Session ID daal do
 
 # 🔹 Specific GC thread ID
-THREAD_ID = "YOUR_GC_THREAD_ID_HERE"
+THREAD_ID = "2859303934258963"
 
 # 🔹 Messages list
 messages = [
-    "tu pagal hai 🤣",
-    "tu sudhar ja 🤣",
-    "tujhe bahut maruga ❤️"
+    """OMA - T E R I M A K B OX DA CH O DU GA  OMA - T E R I M A K B OX DA CH O DU GA  OMA - T E R I M A K B OX DA CH O DU GA  OMA - T E R I M A K B OX DA CH O DU GA  OMA - T E R I M A K B OX DA CH O DU GA  OMA - T E R I M A K B OX DA CH O DU GA  OMA - T E R I M A K B OX DA CH O DU GA  OMA - T E R I M A K B OX DA CH O DU GA  OMA - T E R I M A K B OX DA CH O DU GA  OMA - T E R I M A K B OX DA CH O DU GA  OMA - T E R I M A K B OX DA CH O DU GA  OMA - T E R I M A K B OX DA CH O DU GA  OMA - T E R I M A K B OX DA CH O DU GA  OMA - T E R I M A K B OX DA CH O DU GA  OMA - T E R I M A K B OX DA CH O DU GA  OMA - T E R I M A K B OX DA CH O DU GA  OMA - T E R I M A K B OX DA CH O DU GA  OMA - T E R I M A K B OX DA CH O DU GA  OMA - T E R I M A K B OX DA CH O DU GA  """,
+    """Oᗰᗩ TEᖇI ᗰᗩ KI ᑭᗩᑎTY ᖴᗩᗪ ᗪᑌ________________________________🌙
+Oᗰᗩ TEᖇI ᗰᗩ KI ᑭᗩᑎTY ᖴᗩᗪ ᗪᑌ________________________________🌙
+Oᗰᗩ TEᖇI ᗰᗩ KI ᑭᗩᑎTY ᖴᗩᗪ ᗪᑌ________________________________🌙
+Oᗰᗩ TEᖇI ᗰᗩ KI ᑭᗩᑎTY ᖴᗩᗪ ᗪᑌ________________________________🌙
+Oᗰᗩ TEᖇI ᗰᗩ KI ᑭᗩᑎTY ᖴᗩᗪ ᗪᑌ________________________________🌙
+Oᗰᗩ TEᖇI ᗰᗩ KI ᑭᗩᑎTY ᖴᗩᗪ ᗪᑌ________________________________🌙
+Oᗰᗩ TEᖇI ᗰᗩ KI ᑭᗩᑎTY ᖴᗩᗪ ᗪᑌ________________________________🌙
+Oᗰᗩ TEᖇI ᗰᗩ KI ᑭᗩᑎTY ᖴᗩᗪ ᗪᑌ________________________________🌙
+Oᗰᗩ TEᖇI ᗰᗩ KI ᑭᗩᑎTY ᖴᗩᗪ ᗪᑌ________________________________🌙
+Oᗰᗩ TEᖇI ᗰᗩ KI ᑭᗩᑎTY ᖴᗩᗪ ᗪᑌ________________________________🌙
+Oᗰᗩ TEᖇI ᗰᗩ KI ᑭᗩᑎTY ᖴᗩᗪ ᗪᑌ________________________________🌙
+Oᗰᗩ TEᖇI ᗰᗩ KI ᑭᗩᑎTY ᖴᗩᗪ ᗪᑌ________________________________🌙
+Oᗰᗩ TEᖇI ᗰᗩ KI ᑭᗩᑎTY ᖴᗩᗪ ᗪᑌ________________________________🌙
+Oᗰᗩ TEᖇI ᗰᗩ KI ᑭᗩᑎTY ᖴᗩᗪ ᗪᑌ________________________________🌙
+Oᗰᗩ TEᖇI ᗰᗩ KI ᑭᗩᑎTY ᖴᗩᗪ ᗪᑌ________________________________🌙
+Oᗰᗩ TEᖇI ᗰᗩ KI ᑭᗩᑎTY ᖴᗩᗪ ᗪᑌ________________________________🌙"""
 ]
 
 # 🔹 Loop me message send karna
